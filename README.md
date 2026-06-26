@@ -112,13 +112,7 @@ job-ai/
 
 ---
 
-## 📸 Screenshots
 
-> *Screenshots of the application in action will be added here.*
-
-| Match Score | Skill Gaps | Rewritten Resume | Cover Letter |
-|:-----------:|:----------:|:----------------:|:------------:|
-| *Coming soon* | *Coming soon* | *Coming soon* | *Coming soon* |
 
 ---
 
